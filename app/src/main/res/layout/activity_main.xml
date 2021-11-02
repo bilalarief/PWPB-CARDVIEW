@@ -196,7 +196,10 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-           android:text="Guide Me"></Button>
+            android:background="@drawable/bgbtnguide"
+           android:text="Guide Me"
+            android:textColor="@color/white"
+            android:textAllCaps="false"></Button>
     </LinearLayout>
 
 </LinearLayout>
